@@ -1,5 +1,8 @@
 # OrderShippingAnalysis
 
+![Orders & Shipping Logo](https://github.com/TetianaBovanenko/OrderShippingAnalysis/blob/main/Orders%20&%20Shiping.png?raw=true)
+
+
 Technology Stack:
 Tableau (calculated fields, function, dashboard creation)
 
